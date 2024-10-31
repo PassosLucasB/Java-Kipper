@@ -2,11 +2,14 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("Hello and welcome!");
+        tipo nome = valor;
 
-        for (int i = 1; i <= 5; i++) {
+        int idade = 22;
 
-            System.out.println("i = " + i);
-        }
+        int salario;
+
+        salario = 400;
+
+        var pessoa = "Fernanda";
     }
 }
